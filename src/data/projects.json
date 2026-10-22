@@ -1,0 +1,85 @@
+[
+  {
+    "id": "triviapp",
+    "title": "TriviApp",
+    "description": "A trivia game with category-based quizzes, Firebase sign-in and score tracking. Questions come from OpenTriviaDB, with day/night themes and a companion widget.",
+    "image": "img/triviapp_icon.png",
+    "imageAlt": "Original TriviApp icon",
+    "technologies": ["Java", "Android", "Firebase", "Retrofit", "Room"],
+    "githubUrl": "https://github.com/kzaf/TriviApp",
+    "demoUrl": "https://play.google.com/store/apps/details?id=com.zaf.triviapp",
+    "featured": true,
+    "archived": false,
+    "order": 1
+  },
+  {
+    "id": "calculator",
+    "title": "Calculator & Currency Converter",
+    "description": "A native Android utility written in Kotlin. Combines everyday calculations with currency conversion using exchange-rate data from fixer.io.",
+    "image": "img/calculator.png",
+    "imageAlt": "Original Calculator and Currency Converter icon",
+    "technologies": ["Kotlin", "Android", "REST API"],
+    "githubUrl": "https://github.com/kzaf/SimpleCalculator",
+    "featured": true,
+    "archived": false,
+    "order": 2
+  },
+  {
+    "id": "rick-and-morty",
+    "title": "Rick and Morty",
+    "description": "A Flutter application for browsing characters and their details from the Rick and Morty API, using BLoC for state management and Dio for networking.",
+    "technologies": ["Flutter", "Dart", "BLoC", "Dio"],
+    "githubUrl": "https://github.com/kzaf/rickandmortyapp",
+    "featured": false,
+    "archived": false,
+    "order": 3
+  },
+  {
+    "id": "get-a-room",
+    "title": "Get A Room",
+    "description": "A university thesis project exploring hotel and motel booking and property management, with an Android client communicating with a backend through Volley.",
+    "image": "img/getaroom.png",
+    "imageAlt": "Original Get A Room app icon",
+    "technologies": ["Java", "Android", "Volley"],
+    "githubUrl": "https://github.com/kzaf/GetARoom",
+    "featured": false,
+    "archived": false,
+    "order": 4
+  },
+  {
+    "id": "popular-movies",
+    "title": "Popular Movies",
+    "description": "A movie discovery app with trailers, reviews and offline favourites, powered by The Movie DB. Includes layouts for phones and tablets.",
+    "image": "img/popularmovies.png",
+    "imageAlt": "Original Popular Movies application preview",
+    "technologies": ["Java", "Android", "TMDB API"],
+    "githubUrl": "https://github.com/kzaf/PopularMovies_Stage2",
+    "featured": false,
+    "archived": false,
+    "order": 5
+  },
+  {
+    "id": "baking-app",
+    "title": "Baking App",
+    "description": "Step-by-step recipes with video playback, tablet layouts and a home-screen widget. Uses ExoPlayer for media and Espresso for UI testing.",
+    "image": "img/baking_app_icon.png",
+    "imageAlt": "Original Baking App icon",
+    "technologies": ["Java", "Android", "ExoPlayer", "Espresso"],
+    "githubUrl": "https://github.com/kzaf/BakingApp",
+    "featured": false,
+    "archived": false,
+    "order": 6
+  },
+  {
+    "id": "pokedex",
+    "title": "Pokédex",
+    "description": "A React Native exploration for Android and iOS, featuring searchable Pokémon lists and detail screens with stats, types and abilities from PokeAPI.",
+    "image": "img/pokededx 3 (1).png",
+    "imageAlt": "Original Pokédex application screens",
+    "technologies": ["React Native", "PokeAPI"],
+    "githubUrl": "https://github.com/kzaf/Pokedex-app",
+    "featured": false,
+    "archived": false,
+    "order": 7
+  }
+]
