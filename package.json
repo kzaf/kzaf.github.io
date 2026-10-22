@@ -1,0 +1,13 @@
+{
+  "name": "konstantinos-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "lint": "node --check scripts/build.mjs && node --check scripts/projects.mjs && node --check assets/main.js && node scripts/validate.mjs",
+    "test": "node --test scripts/projects.test.mjs",
+    "preview": "python3 -m http.server 4173"
+  }
+}
