@@ -1,6 +1,6 @@
 # Konstantinos Zafeiropoulos — Portfolio
 
-A lightweight, dark developer portfolio for **https://kzaf.github.io/**. Generated HTML, plain CSS, and a small accessible navigation script. No framework, backend, analytics, CDN fonts, credentials or runtime dependencies.
+A lightweight, dark mobile software engineer portfolio for **https://kzaf.github.io/**. Generated HTML, plain CSS, and a small accessible navigation script. No framework, backend, analytics, CDN fonts, credentials or runtime dependencies.
 
 ## Develop and validate
 
